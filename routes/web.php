@@ -21,4 +21,13 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+use App\Http\Controllers\UserController;
 Route::resource('/user', UserController::class);
+use App\Http\Controllers\PelayananController;
+Route::resource('/pelayanan', PelayananController::class);
+use App\Http\Controllers\DokterController;
+Route::resource('/dokter', DokterController::class);
+use App\Http\Controllers\KunjunganController;
+Route::resource('/kunjungan', KunjunganController::class);
+use App\Http\Controllers\paktukangController;
+Route::resource('/paktukang', paktukangController::class);

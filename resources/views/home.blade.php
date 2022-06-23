@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Rumah Sakit PIKTI</title>
+  <title>DIDON ALUMUNIUM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -37,7 +37,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">RS PIKTI</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">DIDON ALUMUNIUM</a></h1>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
@@ -206,11 +206,10 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>RS PIKTI</h3>
+              <h3>DIDON ALUMUNIUM</h3>
               <p>
-                Melayani berbagai macam keluhan kesehatan dengan dokter-dokter spesialis yang berkualitas.
-				RS PIKTI memberikan layanan terbaik dan didukung Teknologi Informasi yang menyajikan kemudahan akses layanan dan informasi.
-				Kami hadir untuk anda. Melayani sepenuh hati. Menyelesaikan masalah tanpa masalah.
+                Disini kami mengerjakan rak alumunium,rolling door,kusen alumunium,folding door,
+                kanopi,pintu,pagar,baja ringan,plafon,konstruksi baja,dll.
               </p>
             </div>
           </div>
@@ -220,26 +219,23 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Spesialis Penyakit Dalam</h4>
-                    <p>Menangani penyakit seperti:
-					hipertensi, penyakit pencernaan, penyakit pernapasan, dan penyakit ginjal.</p>
+                    <h4>Rak alumunium</h4>
+                    <p>Disini melayani pembuatan rak alumunium sesuai dengan request anda dan bergaransi 1 bulan</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Dokter spesialis anak</h4>
-                    <p>Umumnya semua penyakit yang terjadi pada anak, baik masalah fisik, perilaku, hingga kesehatan mental, 
-					akan dirujuk ke dokter spesialis anak</p>
+                    <h4>Rolling door</h4>
+                    <p>Disini melayani pembuatan rolling door sesuai dengan request anda dan bergaransi 1 bulan</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Dokter spesialis kandungan</h4>
-                    <p>Khusus di 2 bidang, yaitu keahlian seputar kehamilan dan
-					proses melahirkan (obstetri) dan keahlian seputar kesehatan reproduksi (ginekologi).</p>
-                  </div>
+                    <h4>Kusen alumunium</h4>
+                    <p>Disini melayani pembuatan kusen alumunium sesuai dengan request anda dan bergaransi 1 bulan</p>
+                  </div> 
                 </div>
               </div>
             </div><!-- End .content-->
@@ -259,25 +255,26 @@
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>Rumah Sakit Berbasis Digital</h3>
-            <p>Menerapkan sistem manajemen operasional berbasis teknologi informasi jaringan</p>
+            <h3>DIDON ALUMUNIUM</h3>
+            <p>Disini kami mengerjakan rak alumunium,rolling door,kusen alumunium,folding door,
+                kanopi,pintu,pagar,baja ringan,plafon,konstruksi baja,dll.Kepuasaan pelanggan adalah tanggung jawab kami dan bergaransi 1 bulan.</p>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Perawatan Berkelanjutan</a></h4>
-              <p class="description">Kesinambungan pelayanan yang dilakukan mulai dari perawatan sampai pasien pulang ke rumah oleh tim home care multi-profesi</p>
+              <h4 class="title"><a href="">Rak alumunium</a></h4>
+              <p class="description">Jika pesanan rak alumunium anda sudah selesai akan segera kami kirim sesuai alamat anda dengan aman,tepat,dan memuaskan.</p>
             </div>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Praktik Berbasis Bukti</a></h4>
-              <p class="description">Seluruh klien dikaji berdasarkan riwayat penyakit dahulu, keluarga, dan pola hidup</p>
+              <h4 class="title"><a href="">Rolling door</a></h4>
+              <p class="description">Jika pesanan Rolling door anda sudah selesai akan segera kami kirim sesuai alamat anda dengan aman,tepat,dan memuaskan.</p>
             </div>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Kolaborasi Interprofesional</a></h4>
-              <p class="description">Mengembangkan kolaborasi interprofesional dalam pelayanan, riset bidang kesehatan, serta pengabdian masyarakat</p>
+              <h4 class="title"><a href="">Kusen alumunium</a></h4>
+              <p class="description">Jika pesanan Kusen alumunium anda sudah selesai akan segera kami kirim sesuai alamat anda dengan aman,tepat,dan memuaskan.</p>
             </div>
 
           </div>
@@ -296,7 +293,7 @@
             <div class="count-box">
               <i class="fas fa-user-md"></i>
               <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Dokter</p>
+              <p>Rak alumunium</p>
             </div>
           </div>
 
@@ -304,7 +301,7 @@
             <div class="count-box">
               <i class="far fa-hospital"></i>
               <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Unit Kerja</p>
+              <p>Rolling door</p>
             </div>
           </div>
 
@@ -312,7 +309,7 @@
             <div class="count-box">
               <i class="fas fa-flask"></i>
               <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Laboratorium Riset</p>
+              <p>Kusen alumunium</p>
             </div>
           </div>
 
@@ -334,56 +331,57 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Pelayanan</h2>
-          <p>Dibantu Profesional untuk memberikan pelayanan terbaik untuk Anda.</p>
+          <h2>Pelayanan pelanggan</h2>
+          <p>Disini kami mengerjakan rak alumunium,rolling door,kusen alumunium,folding door,
+                kanopi,pintu,pagar,baja ringan,plafon,konstruksi baja,dll.Kepuasaan pelanggan adalah tanggung jawab kami dan setiap pekerjaan kami bergaransi 1 bulan.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
-              <h4><a href="">Admisi</a></h4>
-              <p>Unit rawat inap kami yang dilengkapi berbagai fasilitas untuk meningkatkan kenyamanan Anda selama perawatan di RSUI. </p>
+              <h4><a href="">Rak alumunium</a></h4>
+              <p>Perawatan rak alumunium 1 minggu 2 kali bisa dibersihkan menggunakan kemoceng atau kain lap agar terlihat bersih dan mengkilap seperti baru.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-pills"></i></div>
-              <h4><a href="">Hemodialisis</a></h4>
-              <p>Hemodialisis/ Cuci Darah merupakan tindakan medis sebagai terapi pengganti fungsi ginjal yang tidak dapat bekerja dengan normal dengan menggunakan mesin cuci darah.</p>
+              <h4><a href="">Rolling door</a></h4>
+              <p>Perawatan rolling door 1 minggu 2 kali bisa diberikan oli pada bagian peer dan puli agar tarikannya enteng dan nyaman.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-hospital-user"></i></div>
-              <h4><a href="">Intensif Care (ICU/PICU/NICU)</a></h4>
-              <p>Unit perawatan intensif kami didukung oleh dokter spesialis anestesi konsultan intensive care, juga jajaran tim medis berpengalaman dan bersertifikasi dalam menangani pasien kritikal dan memerlukan perawatan intensif.</p>
+              <h4><a href="">Kusen alumunium</a></h4>
+              <p>Perawatan kusen alumunium 1 minggu 3 kali bisa dibersihkan menggunakan kemoceng atau semprotan kaca agar terlihat bersih dan mengkilap seperti baru.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-dna"></i></div>
-              <h4><a href="">Medical Check Up</a></h4>
-              <p>Gaya hidup modern dan tingkat stres yang tinggi berdampak terhadap kesehatan. Pemeriksaan kesehatan berkala penting dilakukan demi mencegah terjadinya penyakit degeneratif dan dampaknya yang fatal.</p>
+              <h4><a href="">Pagar</a></h4>
+              <p>Perawatan pagar 1 bulan 2 kali bisa diberikan oli pada besi bagian bawah agar tarikannya enteng dan nyaman.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-wheelchair"></i></div>
-              <h4><a href="">Laboratorium</a></h4>
-              <p>Laboratorium RSUI menerapkan konsep laboratorium terpadu sehingga memiliki laboratorium patologi klinik, patologi anatomi, mikrobiologi, parasitologi, biomolekuler, dan bank darah.</p>
+              <h4><a href="">Lemari alumunium</a></h4>
+              <p>Perawatan lemari alumunium 1 minggu 2 kali bisa dibersihkan agar terlihat bersih dan mengkilap seperti baru.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="fas fa-notes-medical"></i></div>
-              <h4><a href="">Farmasi</a></h4>
-              <p>Unit Farmasi dan CSSD berada di bawah Direktur Pelayanan Medik dan Keperawatan, dan dipimpin oleh seorang Apoteker.</p>
+              <h4><a href="">Pintu alumunium</a></h4>
+              <p>Perawatan pintu alumunium 1 minggu 2 kali bisa dibersihkan agar terlihat bersih dan mengkilap seperti baru.</p>
             </div>
           </div>
 
@@ -397,8 +395,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Doctors</h2>
-          <p>Tenaga dokter yang dimiliki rumah sakit kami.</p>
+          <h2>Pak bos</h2>
+          <p>bos dari DIDON ALUMUNIUM</p>
         </div>
 
         <div class="row">
@@ -407,9 +405,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Kepala Rumah Sakit</span>
-                <p>Dokter spesialis penyakit dalam</p>
+                <h4>Pak Tukang</h4>
+                <span>Tukang rak alumunium</span>
+                <p>Spesialis dalam bagian rak alumunium.</p>
               </div>
             </div>
           </div>
@@ -418,9 +416,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Dokter Spesialis Anak</span>
-                <p>Membantu mengatasi masalah kesehatan anak anda.</p>
+                <h4>Pak Tukang</h4>
+                <span>Tukang Rolling door</span>
+                <p>Spesialis dalam bagian rolling door.</p>
               </div>
             </div>
           </div>
@@ -429,9 +427,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Dokter Kandungan</span>
-                <p>Kami siap melayani persalinan dengan aman dan lancar.</p>
+                <h4>Pak Tukang</h4>
+                <span>Tukang Lemari alumunium</span>
+                <p>Spesialis dalam bagian lemari alumunium.</p>
               </div>
             </div>
           </div>
@@ -440,9 +438,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Fasilitas dan layanan operasi yang lengkap untuk pelayanan optimal.</p>
+                <h4>Pak Tukang</h4>
+                <span>Tukang Pagar</span>
+                <p>Spesialis dalam bagian pagar.</p>
               </div>
             </div>
           </div>
@@ -458,7 +456,7 @@
 
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Beberapa dokumentasi kegiatan yang telah kami lakukan.</p>
+          <p>Beberapa dokumentasi pekerjaan yang telah kami lakukan sebagai berikut :</p>
         </div>
       </div>
 
@@ -540,7 +538,7 @@
 
         <div class="section-title">
           <h2>Kontak</h2>
-          <p>Jika anda butuh kami, silahkan hubungi kami pada kontak berikut ini.</p>
+          <p>Silahkan hubungi kami pada kontak berikut ini : 081234567890.</p>
         </div>
       </div>
 
